@@ -1,0 +1,12 @@
+---
+- hosts: cisco
+  gather_facts: no
+  tasks:
+  - name: Verify operational state data and remediate if necessary
+    block:
+      - name: "Gather and parse operational data - BGP routes recevied"
+        ansible.utils.cli_parse:
+          command: show ip route bgp
+          parser:
+            name: ansible.netcommon.pyats
+        register: result
