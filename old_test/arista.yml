@@ -1,0 +1,9 @@
+---
+atlanta:
+  hosts:
+    rtr2:
+      http_port: 80
+      maxRequestsPerChild: 808
+    rtr4:
+      http_port: 303
+      maxRequestsPerChild: 909
