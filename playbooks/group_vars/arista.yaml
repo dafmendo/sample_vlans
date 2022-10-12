@@ -1,15 +1,15 @@
 ---
 net_vlan_state: overridden
 net_vlan_config:
-  - name: desktops1
+  - name: desktops11
     vlan_id: 5
-  - name: servers1
+  - name: servers11
     vlan_id: 10
-  - name: dmzs1
+  - name: dmzs11
     vlan_id: 20
-  - name: feb7
+  - name: feb711
     vlan_id: 333
-  - name: chapelhill
+  - name: chapelhill11
     vlan_id: 444
-  - name: boston
+  - name: boston11
     vlan_id: 1234
