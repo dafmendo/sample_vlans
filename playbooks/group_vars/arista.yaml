@@ -5,7 +5,7 @@ net_vlan_config:
     vlan_id: 5
   - name: Servers
     vlan_id: 10
-  - name: Dmzs
+  - name: Dmz
     vlan_id: 20
   - name: Wireless
     vlan_id: 333
