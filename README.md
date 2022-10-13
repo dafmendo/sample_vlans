@@ -1,2 +1,2 @@
 # sample_vlans
-Clone from Sean Cavanaugh
+Testing code to configure traditional routers and switches.
