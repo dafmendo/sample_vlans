@@ -11,5 +11,5 @@ net_vlan_config:
     vlan_id: 333
   - name: Printer
     vlan_id: 444
-  - name: boston
+  - name: HQBoston
     vlan_id: 1234
