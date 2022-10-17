@@ -1,7 +1,7 @@
 ---
 net_vlan_state: overridden
 net_vlan_config:
-  - name: Desktops55
+  - name: Desktops555
     vlan_id: 5
   - name: Servers10
     vlan_id: 10
