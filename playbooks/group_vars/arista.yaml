@@ -7,9 +7,9 @@ net_vlan_config:
     vlan_id: 20
   - name: Dmz
     vlan_id: 30
-  - name: wifi
+  - name: Wireless
     vlan_id: 333
   - name: Printer
     vlan_id: 444
-  - name: bostonhq
+  - name: BostonHQ
     vlan_id: 1234
