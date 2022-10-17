@@ -3,7 +3,7 @@ net_vlan_state: overridden
 net_vlan_config:
   - name: Desktops
     vlan_id: 5
-  - name: Servers10
+  - name: Servers
     vlan_id: 10
   - name: Dmz1
     vlan_id: 20
