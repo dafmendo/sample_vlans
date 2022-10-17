@@ -5,9 +5,9 @@ net_vlan_config:
     vlan_id: 5
   - name: Servers
     vlan_id: 10
-  - name: Dmz1
+  - name: Dmz
     vlan_id: 20
-  - name: Printer1
+  - name: Printer
     vlan_id: 444
-  - name: boston1
+  - name: boston
     vlan_id: 1234
